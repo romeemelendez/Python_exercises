@@ -1,0 +1,11 @@
+- bicycle model con scipy
+- simulazione di risposta allo step + plot con matplotlib
+- simulazione sweep e frequency response estimate
+Dati:
+- https://macdrive.mcmaster.ca/d/2d54f23bc41f48bd9a2d/?p=%2F
+- https://github.com/karanchawla/GPS_IMU_Kalman_Filter/blob/master/src/data.csv
+- https://github.com/rtklibexplorer/GNSS_IMU/blob/main/src/GNSS_IMU.py
+- https://github.com/betaBison/gnss-sensor-fusion/blob/master/data/dji_data_flight_3.csv
+- https://www.mathworks.com/help/nav/ug/imu-and-gps-fusion-for-inertial-navigation.html
+- https://www.sciencedirect.com/science/article/pii/S2352340925002847
+- https://github.com/IPNL-POLYU/UrbanNavDataset
